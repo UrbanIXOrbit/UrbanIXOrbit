@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UrbanIXOrbit
+- 👋 Hi, I’m (@UrbanIXOrbit) Adelana Emmanuel
 - 👀 I’m interested in Data Analytics and Science with secondary interest in buiding Mobile Apps (Cross-Platform inclusive)
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science projects
